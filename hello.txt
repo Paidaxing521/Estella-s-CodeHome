@@ -1,5 +1,9 @@
 copy yy
 paste p
+paste p
+paste p
+paste p
+paste p
 how to copy		
 how to copy		
 how to copy		
